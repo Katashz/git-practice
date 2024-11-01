@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file was made in the remote repo and is 2 be fetched
+=======
+this file was made in the remote repo and is 2 be fetched
+>>>>>>> 9029f917881cb4d5cf61fde245794fc0d0a45e1e
